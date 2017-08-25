@@ -1,4 +1,4 @@
-package com.test.modeldesign;
+package com.test.modeldesign.adapter;
 
 public interface Print {
 	public String printStrong( );

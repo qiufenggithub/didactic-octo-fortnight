@@ -1,4 +1,4 @@
-package com.test.modeldesign;
+package com.test.modeldesign.adapter;
 
 public class Banner {
 	private String string;
@@ -7,10 +7,10 @@ public class Banner {
 		this.string = string;
 	}
 	
-	public void showWithParten(String string){
+	public void showWithParten(){
 		System.out.println("*"+string+"*");
 	}
-	public void showWithAster(String string){
+	public void showWithAster(){
 		System.out.println("("+string+")");
 	}
 }
