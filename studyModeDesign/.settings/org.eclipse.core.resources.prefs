@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/test/modeldesign/adapter/PrintBanner.java=GBK
+encoding//src/com/test/modeldesign/adapter/excerise/FileProperties.java=GBK
+encoding//src/com/test/modeldesign/factoryMethod/framework/Factory.java=GBK
+encoding//src/com/test/modeldesign/factoryMethod/idcard/IDCard.java=GBK
+encoding//src/com/test/modeldesign/factoryMethod/idcard/IDCardFactory.java=GBK
+encoding//src/com/test/modeldesign/singleton/Singleton.java=GBK
+encoding//src/com/test/modeldesign/singleton/Test.java=GBK
+encoding//src/com/test/modeldesign/singleton/Triple.java=GBK
+encoding//src/com/test/modeldesign/templateMethod/AbstractDisplay.java=GBK
+encoding/<project>=UTF-8
