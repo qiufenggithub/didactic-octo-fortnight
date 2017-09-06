@@ -1,10 +1,6 @@
-package com.test.modeldesign.builder;
+package com.test.modeldesign.builder.exercise;
 
-/**
- * 创造者
- * @author Thinkpad
- */
-public abstract class Builder {
+public interface Builder {
 	public abstract void makeTitile(String title);
 	public abstract void makeString(String str);
 	public abstract void makeItems(String [] items);

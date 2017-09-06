@@ -1,10 +1,5 @@
-package com.test.modeldesign.builder;
+package com.test.modeldesign.builder.exercise;
 
-/**
- * 监工，或导演的角色，它决定怎样来建造
- * @author Thinkpad
- *
- */
 public class Director {
 	Builder builder;
 
